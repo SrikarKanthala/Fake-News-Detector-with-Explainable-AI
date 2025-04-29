@@ -1,0 +1,5 @@
+title,text,label
+Fake news title 1,"This is a fake news article with misleading content",FAKE
+Real news title 1,"This is a verified news article from a credible source",REAL
+Fake news title 2,"Another fake news piece with fabricated quotes",FAKE
+Real news title 2,"An article with confirmed facts and proper reporting",REAL
